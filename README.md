@@ -10,3 +10,5 @@ The identical URL indicates that both the publisher and subscriber programs are 
 ![alt text](image-1.png) 
 ![alt text](image-2.png)
 -> sending and processing event
+
+![alt text](image-3.png) -> "Monitoring chart based on publisher"
